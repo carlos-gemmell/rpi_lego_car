@@ -5,3 +5,4 @@ How cool would it be to control a lego car using a really powerful motor with a 
 Well this is exactly what this is. 
 As the project stands: acceleration works fine and the connection to the pi is flawless but making the car is proving to be a bit of a pain and I had to build a motor controller from scratch to get reverse to work...
 
+[![N|Solid](https://github.com/aquaktus/rpi_lego_car/blob/master/motor%20controller.jpg)](https://github.com/aquaktus/rpi_lego_car/blob/master/motor%20controller.jpg)
